@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>7.9</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>27</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>830x400</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect></ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>400</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>/Applications/WOWSlider.app/Contents/Resources/templates/backgnd/absent/</ImageTemplate>
+            <ImageTemplateName>Absent</ImageTemplateName>
+            <ImageWidth>830</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>/Users/gwenmak/GeneralAssembly/project_2/830x390.html</PublishFileName>
+            <PublishIndex>830x390.html</PublishIndex>
+            <PublishPath>/Users/gwenmak/GeneralAssembly/project_2</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>2</SizeStyle>
+            <SlideshowDelay>45</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Slabo 27px</TemplateFont>
+            <TemplateName>absent</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>/Users/gwenmak/GeneralAssembly/project_2/images/frands.jpg</url>
+                <title>&quot;The key is not to standardise education, but to personalise it.&quot;  ~Ken Robinson</title>
+                <filesize>201483</filesize>
+            </Image>
+            <Image>
+                <url>/Users/gwenmak/GeneralAssembly/project_2/images/men_working.jpg</url>
+                <title>&quot;Human intelligence is richer and more dynamic than we have been led to believe by formal academic education.&quot;  ~Ken Robinson</title>
+                <filesize>58415</filesize>
+            </Image>
+            <Image>
+                <url>/Users/gwenmak/GeneralAssembly/project_2/images/volunteer.jpg</url>
+                <title>&quot;Education is a natural process... and is not acquired by listening to words but by experiences in the environment.&quot; ~Maria Montessori</title>
+                <filesize>30233</filesize>
+            </Image>
+            <Image>
+                <url>/Users/gwenmak/GeneralAssembly/project_2/images/backpacking.jpg</url>
+                <title>&quot;Not all classrooms have four walls.&quot; ~Anonymous</title>
+                <filesize>2318017</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
